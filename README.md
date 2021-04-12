@@ -14,3 +14,22 @@
 ##
 ### 韌體
 * [韌體 2021/3/26 版](https://drive.google.com/file/d/1Aa8K9HLEXGwRDT_qKlzEl3OWGgNNAMNs/view?usp=sharing)
+### 搖桿操控
+<pre>
+如果想默認啟動遊戲搖杆，不希望每次都添加--js,請修改config.py，將USE_JOYSTICK_AS_DEFAULT的值改為 True。
+搖桿控制
+左側模擬搖杆 - 左右調整轉向
+右側模擬杆 - 向前增加前進油門
+向右拉回兩次模擬量以反轉
+每當油門不為零時，只要您處於使用者模式，就會記錄駕駛資料！
+選擇按鈕切換模式-“User, Local Angle, Local(angle and throttle)”
+Triangle-增加最大油門
+X-降低最大油門
+迴圈-切換錄製（預設情況下禁用。預設情況下啟用油門自動錄製）
+dpad up-增加油門比例
+dpad down -減小油門比例
+dpad left -增加轉向比例
+dpad right -減小轉向比例
+start - 切換恒定油門。設置為最大油門（由X和Triangle修改）
+
+</pre>
