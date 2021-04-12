@@ -21,7 +21,7 @@ python manage.py drive --js
 </pre>
 ##
 ### 如果想默認啟動遊戲搖杆，不希望每次都添加--js,請修改config.py，將USE_JOYSTICK_AS_DEFAULT的值改為 True。
-####搖桿控制
+#### 搖桿控制
 * 左側模擬搖杆 - 左右調整轉向
 * 右側模擬杆 - 向前增加前進油門
 * 向右拉回兩次模擬量以反轉
