@@ -1,4 +1,5 @@
-# FSSH-class: [官網](https://www.waveshare.net/wiki/PiRacer_Pro_AI_Kit)
+# FSSH-class: [微雪官網](https://www.waveshare.net/wiki/PiRacer_Pro_AI_Kit)
+### 課程時間: 4/24, 5/1, 5/8, 5/22 (星期六) 9:00~12:10
 ##
 ### [官網教材](https://www.waveshare.net/wiki/PiRacer_Pro_AI_Kit)
 * [DonkeyCar for PiRacer Pro 教程一、Raspberry Pi安装](https://www.waveshare.net/wiki/DonkeyCar_for_PiRacer_Pro_%E6%95%99%E7%A8%8B%E4%B8%80%E3%80%81Raspberry_Pi%E5%AE%89%E8%A3%85)
