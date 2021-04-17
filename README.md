@@ -36,3 +36,8 @@ python manage.py drive --js
 * dpad left -增加轉向比例
 * dpad right -減小轉向比例
 * start - 切換恒定油門。設置為最大油門（由X和Triangle修改）
+
+#### 參考網站
+* [樹莓派燒錄步驟](https://atceiling.blogspot.com/2020/03/raspberry-pi-67-sdimagersdformatter.html)
+* [SD Formater](https://www.azofreeware.com/2013/12/sd-formatter-40-sd.html)
+* [BalenaEtcher](https://www.balena.io/etcher/)
