@@ -5,6 +5,7 @@
 * ![xbox搖桿](https://github.com/jumbokh/FSSH-class/blob/main/images/xbox-1.JPG)
 ### [官網教材](https://www.waveshare.net/wiki/PiRacer_Pro_AI_Kit)
 * [DonkeyCar for PiRacer Pro 教程一、Raspberry Pi安装](https://www.waveshare.net/wiki/DonkeyCar_for_PiRacer_Pro_%E6%95%99%E7%A8%8B%E4%B8%80%E3%80%81Raspberry_Pi%E5%AE%89%E8%A3%85)
+    * [燒錄及初步設定樹莓派]()
 * [DonkeyCar for PiRacer Pro 教程二、Linux PC安装](https://www.waveshare.net/wiki/DonkeyCar_for_PiRacer_Pro_%E6%95%99%E7%A8%8B%E4%BA%8C%E3%80%81Linux_PC%E5%AE%89%E8%A3%85)
 * [DonkeyCar for PiRacer Pro 教程三、WEB控制](https://www.waveshare.net/wiki/DonkeyCar_for_PiRacer_Pro_%E6%95%99%E7%A8%8B%E4%B8%89%E3%80%81WEB%E6%8E%A7%E5%88%B6)
 * [DonkeyCar for PiRacer Pro 教程四、校准DonkeyCar](https://www.waveshare.net/wiki/DonkeyCar_for_PiRacer_Pro_%E6%95%99%E7%A8%8B%E5%9B%9B%E3%80%81%E6%A0%A1%E5%87%86DonkeyCar)
