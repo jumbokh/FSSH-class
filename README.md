@@ -75,3 +75,6 @@ python manage.py drive --js
 * [gym-donkeycar](https://github.com/tawnkramer/gym-donkeycar/releases)
 * [github](https://github.com/autorope/donkeycar/blob/dev/docs/guide/simulator.md)
 * [微雪 WiKi](https://www.waveshare.net/wiki/PiRacer_AI_Kit)
+* [Learning to Drive Smoothly in Minutes](https://towardsdatascience.com/learning-to-drive-smoothly-in-minutes-450a7cdb35f4)
+* [驢車(Donkey Car)，一個基於 Raspberry Pi 與機器學習的開源無人小車專案介紹](https://www.slideshare.net/raspberrypi-tw/donkey-car-raspberry-pi?qid=21ac0c87-65e4-41ec-a987-446185fc65f0&v=&b=&from_search=4)
+* [Building Custom Self Driving Car with Donkey Car under 10 mints.](https://www.youtube.com/watch?v=J6Ll5Obtuxk)
