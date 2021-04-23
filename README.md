@@ -1,4 +1,5 @@
 # FSSH-class: [微雪官網](https://www.waveshare.net/wiki/PiRacer_Pro_AI_Kit)
+## [資料連結](https://drive.google.com/drive/folders/16iQKtnFYjngqqkkFbVzOkc8HuU0624xz?usp=sharing)
 ### 課程時間: 4/24, 5/1, 5/8, 5/22 (星期六) 9:00~12:10
 ##
 * ![Pirace pro AI kit](https://github.com/jumbokh/FSSH-class/blob/main/images/PiRacer-Pro-AI-Kit-details-1.jpg)
