@@ -1,6 +1,33 @@
 # FSSH-class: [微雪官網](https://www.waveshare.net/wiki/PiRacer_Pro_AI_Kit)
 ## [資料連結](https://drive.google.com/drive/folders/16iQKtnFYjngqqkkFbVzOkc8HuU0624xz?usp=sharing)
 ### 課程時間: 4/24, 5/1, 5/8, 5/22 (星期六) 9:00~12:10
+#### 開關機, 登入登出, 執行
+* 開機:
+    * 檢視 oled 第一行的 ip 位置, 比如: 192.168.0.100
+    * 開啟 putty, open 192.168.0.1200
+    * login: pi
+    * password: raspberry (螢幕不會顯示,不會回應, 直接打完後<Enter>)
+* 關機:
+    * Ctrl-C, 回到 pi$ 提示符號
+    * 打三次 sync
+    * sudo shutdown -h now
+    * 等到樹莓派的網路燈熄滅
+    * 切換開關至 off
+* 執行:
+    * Web 控制:
+        * 登入樹莓派
+        * 見到提示符號出現
+        * 輸入指令:
+            * cd ~/mycar
+            * python manage.py drive    
+            * 在電腦的瀏覽器, 輸入網址: 192.168.0.100:8887
+            * 如果顯示鏡頭為倒立, 需修改 myconfig.py 之中的 CAMER_VFLIP 
+            * 第 29 行, 改為
+            * CAMERA_VFLIP = True
+     * 遊戲搖桿控制:
+         * 登入至樹莓派, 步驟如上
+         * 執行: 
+         * python manage.py drive --js
 ##
 * ![Pirace pro AI kit](https://github.com/jumbokh/FSSH-class/blob/main/images/PiRacer-Pro-AI-Kit-details-1.jpg)
 * ![xbox搖桿](https://github.com/jumbokh/FSSH-class/blob/main/images/xbox-1.JPG)
