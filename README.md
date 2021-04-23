@@ -43,3 +43,7 @@ python manage.py drive --js
 * [樹莓派燒錄步驟](https://atceiling.blogspot.com/2020/03/raspberry-pi-67-sdimagersdformatter.html)
 * [SD Formater](https://www.azofreeware.com/2013/12/sd-formatter-40-sd.html)
 * [BalenaEtcher](https://www.balena.io/etcher/)
+* [DonkeyCar Docs](https://docs.donkeycar.com/)
+* [gym-donkeycar](https://github.com/tawnkramer/gym-donkeycar/releases)
+* [github](https://github.com/autorope/donkeycar/blob/dev/docs/guide/simulator.md)
+* [微雪 WiKi](https://www.waveshare.net/wiki/PiRacer_AI_Kit)
