@@ -13,6 +13,13 @@
     * sudo shutdown -h now
     * 等到樹莓派的網路燈熄滅
     * 切換開關至 off
+* 校準
+    * 方向舵
+        * cd ~/mycar
+        * donkey calibrate --channel 0 --bus=1
+        * # 輸入360，此時應該看到舵機轉動，如果沒有轉動輸入400或者300試下。
+        * # 從起始值慢慢調節，使舵機轉到最中間的位置，試幾下此時的值。例如330.將此值+/- 100 將大概得到最左最右的值230和430.
+        * # 在config.py檔找到如下部分，將STEERING_LEFT_PWM和STEERING_RIGHT_PWM的值改為實際校準的值。
 * 執行:
     * Web 控制:
         * 登入樹莓派
