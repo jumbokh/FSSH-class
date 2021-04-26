@@ -95,3 +95,8 @@ python manage.py drive --js
 * [Learning to Drive Smoothly in Minutes](https://towardsdatascience.com/learning-to-drive-smoothly-in-minutes-450a7cdb35f4)
 * [驢車(Donkey Car)，一個基於 Raspberry Pi 與機器學習的開源無人小車專案介紹](https://www.slideshare.net/raspberrypi-tw/donkey-car-raspberry-pi?qid=21ac0c87-65e4-41ec-a987-446185fc65f0&v=&b=&from_search=4)
 * Youtube: [Building Custom Self Driving Car with Donkey Car under 10 mints.](https://www.youtube.com/watch?v=J6Ll5Obtuxk)
+* RC車架: [配件](https://item.taobao.com/item.htm?spm=2013.1.0.0.3f4a6ab2ngyMkn&id=553479800530)
+* [舵機 E6001](https://item.taobao.com/item.htm?spm=a230r.1.14.55.5cdb726dISP3VD&id=620613325708&ns=1&abbucket=14#detail)
+* [RC380強磁碳刷馬達](https://item.taobao.com/item.htm?spm=a230r.1.14.101.42445bb7AZYmQV&id=613122254964&ns=1&abbucket=14#detail)
+* [轉向機](https://item.taobao.com/item.htm?id=543223247962&ali_refid=a3_430620_1006:1121604386:N:gs34vNq9Nhih8xV68YYY%2BmzNxn5UFqDD:48d194d12f815ce4483a1fa3c5447730&ali_trackid=1_48d194d12f815ce4483a1fa3c5447730&spm=a230r.1.14.1#detail)
+* [Raspberry pi 4B 4G](https://item.taobao.com/item.htm?id=596761703325&ali_refid=a3_430620_1006:1110571867:N:nu18v9KpIqv%2BIEc3RDNh2bHs5uAbSgnc:3df60e4ec69bd4d780300e513d083020&ali_trackid=1_3df60e4ec69bd4d780300e513d083020&spm=a230r.1.14.1#detail)
