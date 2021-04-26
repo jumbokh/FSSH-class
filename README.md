@@ -61,6 +61,8 @@
 ##
 ### RC車架
 * ![detail](https://github.com/jumbokh/FSSH-class/blob/main/images/PiRacer-Pro-AI-Kit-details-11.jpg)
+### 越野RC車架
+* ![越野](https://github.com/jumbokh/FSSH-class/blob/main/images/TB2Vpdtt3FkpuFjSspnXXb4qFXa_!!14410097.jpg)
 ### 韌體
 * [韌體 2021/3/26 版](https://drive.google.com/file/d/1Aa8K9HLEXGwRDT_qKlzEl3OWGgNNAMNs/view?usp=sharing)
 ### 搖桿操控
