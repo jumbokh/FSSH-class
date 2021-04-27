@@ -42,10 +42,11 @@
             * 如果顯示鏡頭為倒立, 需修改 myconfig.py 之中的 CAMER_VFLIP 
             * 第 29 行, 改為
             * CAMERA_VFLIP = True
-     * 遊戲搖桿控制:
+     * 遊戲搖桿控制: [使用不同的搖桿](https://docs.donkeycar.com/parts/controllers/#joystick-controller)
          * 登入至樹莓派, 步驟如上
          * 執行: 
          * python manage.py drive --js
+     * [設定搖桿值](https://docs.donkeycar.com/utility/donkey/#joystick-wizard)
 ##
 * ![Pirace pro AI kit](https://github.com/jumbokh/FSSH-class/blob/main/images/PiRacer-Pro-AI-Kit-details-1.jpg)
 * ![xbox搖桿](https://github.com/jumbokh/FSSH-class/blob/main/images/xbox-1.JPG)
