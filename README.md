@@ -99,6 +99,7 @@ python manage.py drive --js
 * SD卡格式化 [SD Formater](https://www.azofreeware.com/2013/12/sd-formatter-40-sd.html)
 * 燒錄器 [BalenaEtcher](https://www.balena.io/etcher/)
 * 官方文件 [DonkeyCar Docs](https://docs.donkeycar.com/)
+* 樣本data: [sampleing dataset](https://drive.google.com/file/d/13dXSoHx6YpTvesdyUMe6o_ZfyYTYlfaK/view)
 * Youtube: [Donkey Car Assembly Video](https://www.youtube.com/watch?v=OaVqWiR2rS0&t=48s)
 * [gym-donkeycar](https://github.com/tawnkramer/gym-donkeycar/releases)
 * [模擬軟體](https://github.com/autorope/donkeycar/blob/dev/docs/guide/simulator.md)
