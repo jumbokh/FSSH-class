@@ -114,3 +114,4 @@ python manage.py drive --js
 * [越野遙控車](https://www.pcone.com.tw/product/info/181015845171?utm_campaign=gsa&sid=gsa_4&utm_source=google&utm_medium=gsa&utm_content=4&gclid=EAIaIQobChMI7YrdnYug8AIV0-7jBx3P0A5HEAYYAyABEgLk8_D_BwE)
 * [3D列印車架](https://www.thingiverse.com/thing:2566276)
 * [wlmodel](http://www.wlmodel.com/app/detail.html?goods_id=4)
+* [自動車 -- 訓練後的驢車](https://www.youtube.com/watch?v=QwsIGYvoZro)
