@@ -100,6 +100,7 @@ python manage.py drive --js
 * 燒錄器 [BalenaEtcher](https://www.balena.io/etcher/)
 * 官方文件 [DonkeyCar Docs](https://docs.donkeycar.com/)
 * 樣本data: [sampleing dataset](https://drive.google.com/file/d/13dXSoHx6YpTvesdyUMe6o_ZfyYTYlfaK/view)
+* 模擬賽車data: [Sim Dataset](https://drive.google.com/file/d/1A5sTSddFsf494UDtnvYQBaEPYX87_LMp/view)
 * Youtube: [Donkey Car Assembly Video](https://www.youtube.com/watch?v=OaVqWiR2rS0&t=48s)
 * [gym-donkeycar](https://github.com/tawnkramer/gym-donkeycar/releases)
 * [模擬軟體](https://github.com/autorope/donkeycar/blob/dev/docs/guide/simulator.md)
