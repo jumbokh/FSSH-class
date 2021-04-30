@@ -31,6 +31,7 @@
      * ### 最後, 必須修改 config.py 中方向舵(STEERING) 和 油門 (throttle)的 channel 剛好相反, 必須改為:
      * ### STEERING_CHANNEL = 0
      * ### THROTTLE_CHANNEL = 1
+* 自定義搖桿: [create js](https://docs.donkeycar.com/utility/donkey/#joystick-wizard)
 * 執行:
     * Web 控制:
         * 登入樹莓派
