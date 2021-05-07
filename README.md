@@ -1,4 +1,5 @@
 # FSSH-class: 
+### [DonkeyCar Trainning Tutorial](https://github.com/jumbokh/FSSH-class/blob/main/docs/DonkeyCar-Tutorial.pptx)
 ### [DonkeyCar](https://docs.donkeycar.com/)
 ### [微雪官網](https://www.waveshare.net/wiki/PiRacer_Pro_AI_Kit)
 ## [資料連結](https://drive.google.com/drive/folders/16iQKtnFYjngqqkkFbVzOkc8HuU0624xz?usp=sharing)
