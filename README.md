@@ -120,3 +120,6 @@ python manage.py drive --js
 * [3D列印車架](https://www.thingiverse.com/thing:2566276)
 * [wlmodel](http://www.wlmodel.com/app/detail.html?goods_id=4)
 * [自動車 -- 訓練後的驢車](https://www.youtube.com/watch?v=QwsIGYvoZro)
+* [duckietown](https://github.com/duckietown/Software)
+* [Duckiebot operation manual](https://docs.duckietown.org/daffy/opmanual_duckiebot/out/index.html)
+* [小鴨城](https://www.raspberrypi.com.tw/34886/official-duckiebot-db18-duckietown?fbclid=IwAR30FxO-y_cS0sUI8zkbCwjwSQ-tKZLFTksugn4lpDag9srgmGWg4ok1fjg)
