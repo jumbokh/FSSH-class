@@ -52,6 +52,10 @@
      * [模擬程式](https://docs.donkeycar.com/guide/simulator/)
      * [sample data](https://drive.google.com/file/d/1A5sTSddFsf494UDtnvYQBaEPYX87_LMp/view)
      * [Mobile APP Controller](https://medium.com/robocar-store/robocar-controller-quick-start-guide-bdf8cb16d7ce)
+* 訓練
+     * [Train](https://github.com/jumbokh/FSSH-class/blob/main/src/Donkey_Car_Training_using_Google_Colab.ipynb)
+* 自駕
+#### python manage.py drive --model ~/mycar/models/mypilo
 ##
 * ![Pirace pro AI kit](https://github.com/jumbokh/FSSH-class/blob/main/images/PiRacer-Pro-AI-Kit-details-1.jpg)
 * ![xbox搖桿](https://github.com/jumbokh/FSSH-class/blob/main/images/xbox-1.JPG)
