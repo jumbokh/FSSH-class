@@ -20,5 +20,7 @@ There are 3 choices for the alternative python (providing /usr/bin/python).
 
 Press <enter> to keep the current choice[*], or type selection number: 3
 </pre>
-* Miniconda: [Ubuntu py3.7 Install Shell](https://repo.anaconda.com/miniconda/Miniconda3-py37_4.10.1-Linux-aarch64.sh)
+* 下載及執行 Miniconda: [Ubuntu py3.7 Install Shell](https://repo.anaconda.com/miniconda/Miniconda3-py37_4.10.1-Linux-aarch64.sh)
 * 
+### 參考
+* [系統安裝](https://asahinow.blogspot.com/2019/08/nvidia-jetson-nano-tensorflow.html)
