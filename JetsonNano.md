@@ -20,7 +20,6 @@ There are 3 choices for the alternative python (providing /usr/bin/python).
 
 Press <enter> to keep the current choice[*], or type selection number: 3
 </pre>
-* 下載及執行 Miniconda: [Ubuntu py3.7 Install Shell](https://repo.anaconda.com/miniconda/Miniconda3-py37_4.10.1-Linux-aarch64.sh)
-* 
+* 安裝 cv2 時遇到 core dump, 解決方法: pip install numpy==1.19.4
 ### 參考
 * [系統安裝](https://asahinow.blogspot.com/2019/08/nvidia-jetson-nano-tensorflow.html)
