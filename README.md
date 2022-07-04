@@ -120,7 +120,7 @@ python manage.py drive --js
 * [RC380強磁碳刷馬達](https://item.taobao.com/item.htm?spm=a230r.1.14.101.42445bb7AZYmQV&id=613122254964&ns=1&abbucket=14#detail)
 * [轉向機](https://item.taobao.com/item.htm?id=543223247962&ali_refid=a3_430620_1006:1121604386:N:gs34vNq9Nhih8xV68YYY%2BmzNxn5UFqDD:48d194d12f815ce4483a1fa3c5447730&ali_trackid=1_48d194d12f815ce4483a1fa3c5447730&spm=a230r.1.14.1#detail)
 * [Raspberry pi 4B 4G](https://item.taobao.com/item.htm?id=596761703325&ali_refid=a3_430620_1006:1110571867:N:nu18v9KpIqv%2BIEc3RDNh2bHs5uAbSgnc:3df60e4ec69bd4d780300e513d083020&ali_trackid=1_3df60e4ec69bd4d780300e513d083020&spm=a230r.1.14.1#detail)
-* [越野遙控車](https://www.pcone.com.tw/product/info/181015845171?utm_campaign=gsa&sid=gsa_4&utm_source=google&utm_medium=gsa&utm_content=4&gclid=EAIaIQobChMI7YrdnYug8AIV0-7jBx3P0A5HEAYYAyABEgLk8_D_BwE)
+* [越野遙控車]([https://www.pcone.com.tw/product/info/181015845171?utm_campaign=gsa&sid=gsa_4&utm_source=google&utm_medium=gsa&utm_content=4&gclid=EAIaIQobChMI7YrdnYug8AIV0-7jBx3P0A5HEAYYAyABEgLk8_D_BwE](https://shopee.tw/search?keyword=%E8%B6%8A%E9%87%8E%E9%81%99%E6%8E%A7%E8%BB%8A&utm_source=google&utm_medium=seller&utm_campaign=s104788746_SS_TW_GSHP_Roborock_PMAX&is_seller=true&gclid=Cj0KCQjwn4qWBhCvARIsAFNAMigtkuqfkNirLnBElRD5hb80eSRfc8fsKD8NLOY77oEwIVviAyuIlmQaApwNEALw_wcB))
 * [3D列印車架](https://www.thingiverse.com/thing:2566276)
 * [wlmodel](http://www.wlmodel.com/app/detail.html?goods_id=4)
 * [自動車 -- 訓練後的驢車](https://www.youtube.com/watch?v=QwsIGYvoZro)
