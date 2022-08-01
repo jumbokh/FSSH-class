@@ -2,7 +2,7 @@
 ### [DonkeyCar Trainning Tutorial](https://github.com/jumbokh/FSSH-class/blob/main/docs/DonkeyCar-Tutorial.pptx)
 ### [DonkeyCar](https://docs.donkeycar.com/)
 ### [微雪官網](https://www.waveshare.net/wiki/PiRacer_Pro_AI_Kit) [English](https://www.waveshare.com/wiki/PiRacer_Pro_AI_Kit)
-## [資料連結](https://drive.google.com/drive/folders/16iQKtnFYjngqqkkFbVzOkc8HuU0624xz?usp=sharing)
+## [資料連結]()
 ### 課程時間: 8/10, 8/11, 8/12, 8/15 9:00~16:00
 #### 開關機, 登入登出, 執行
 * 開機:
@@ -50,7 +50,7 @@
          * python manage.py drive --js
      * [設定搖桿值](https://docs.donkeycar.com/utility/donkey/#joystick-wizard)
      * [模擬程式](https://docs.donkeycar.com/guide/simulator/)
-     * [sample data](https://drive.google.com/file/d/1A5sTSddFsf494UDtnvYQBaEPYX87_LMp/view)
+     * [sample data]()
      * [Mobile APP Controller](https://medium.com/robocar-store/robocar-controller-quick-start-guide-bdf8cb16d7ce)
 * 訓練
      * [Train](https://github.com/jumbokh/FSSH-class/blob/main/src/Donkey_Car_Training_using_Google_Colab.ipynb)
