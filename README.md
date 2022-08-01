@@ -19,7 +19,7 @@
     * 等到樹莓派的網路燈熄滅
     * 切換開關至 off
 
-#### 樣本資料
+#### 樣本資料 [參考](https://robocaresslingen.github.io/BookDownDocu/donkeyCar.html)
 * left:490
 * right: 390
 * stop 410
