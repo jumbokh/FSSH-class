@@ -2,7 +2,9 @@
 ### [DonkeyCar Trainning Tutorial](https://github.com/jumbokh/FSSH-class/blob/main/docs/DonkeyCar-Tutorial.pptx)
 ### [DonkeyCar](https://docs.donkeycar.com/)
 ### [微雪官網](https://www.waveshare.net/wiki/PiRacer_Pro_AI_Kit) [English](https://www.waveshare.com/wiki/PiRacer_Pro_AI_Kit)
-## [資料連結]()
+### 工具下載
+* [putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+* [MobaXterm](https://mobaxterm.mobatek.net/download-home-edition.html)
 ### 課程時間: 8/10, 8/11, 8/12, 8/15 9:00~16:00
 #### 開關機, 登入登出, 執行
 * 開機:
