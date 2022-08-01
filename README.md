@@ -3,7 +3,7 @@
 ### [DonkeyCar](https://docs.donkeycar.com/)
 ### [微雪官網](https://www.waveshare.net/wiki/PiRacer_Pro_AI_Kit) [English](https://www.waveshare.com/wiki/PiRacer_Pro_AI_Kit)
 ## [資料連結](https://drive.google.com/drive/folders/16iQKtnFYjngqqkkFbVzOkc8HuU0624xz?usp=sharing)
-### 課程時間: 4/24, 5/1, 5/8, 5/22 (星期六) 9:00~12:10
+### 課程時間: 8/10, 8/11, 8/12, 8/15 9:00~16:00
 #### 開關機, 登入登出, 執行
 * 開機:
     * 檢視 oled 第一行的 ip 位置, 比如: 192.168.0.100
