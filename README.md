@@ -18,6 +18,16 @@
     * sudo shutdown -h now
     * 等到樹莓派的網路燈熄滅
     * 切換開關至 off
+
+#### 樣本資料
+* left:490
+* right: 390
+* stop 410
+* slow forward 440
+* slow reverse 390
+* fast forward 550
+* fast reverse 310
+##
 * 校準
     * 方向舵
         * cd ~/mycar
