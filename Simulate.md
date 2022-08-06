@@ -2,6 +2,11 @@
 #### Software Download: [Donkey Gym Release](https://github.com/tawnkramer/gym-donkeycar/releases)
 * [Race Edition v22.05.30](https://github.com/tawnkramer/gym-donkeycar/releases/download/v22.05.30/DonkeySimLinux.zip)
 ##### put at: ~/projects/DonkeySimLinux
+<pre>
+cd ~/projects
+wget https://github.com/tawnkramer/gym-donkeycar/releases/download/v22.05.30/DonkeySimLinux.zip
+unzip DonkeySimLinux.zip
+</pre>
 ##
 #### Setup
 <pre>
