@@ -148,3 +148,4 @@ python manage.py drive --js
 * [duckietown](https://github.com/duckietown)
 * [Duckiebot operation manual](https://docs.duckietown.org/daffy/opmanual_duckiebot/out/index.html)
 * [小鴨城](https://www.raspberrypi.com.tw/34886/official-duckiebot-db18-duckietown?fbclid=IwAR30FxO-y_cS0sUI8zkbCwjwSQ-tKZLFTksugn4lpDag9srgmGWg4ok1fjg)
+* [Youtube : 小車影片收集](https://www.youtube.com/playlist?list=PL3QkiMMAl4cSiUaYW0UOKAzQ3O5zBA1Dc)
