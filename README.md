@@ -3,7 +3,7 @@
 ### [DonkeyCar](https://docs.donkeycar.com/)
 ### [微雪官網](https://www.waveshare.net/wiki/PiRacer_Pro_AI_Kit) [English](https://www.waveshare.com/wiki/PiRacer_Pro_AI_Kit)
 ### [Get Your Raspberry Pi Working](https://docs.donkeycar.com/guide/robot_sbc/setup_raspberry_pi/)
-### [A self-driving RC car using Raspberry Pi,](https://github.com/hamuchiwa/AutoRCCar)
+### [A self-driving RC car using Raspberry Pi](https://github.com/hamuchiwa/AutoRCCar)
 ### 工具下載
 * [putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 * [MobaXterm](https://mobaxterm.mobatek.net/download-home-edition.html)
