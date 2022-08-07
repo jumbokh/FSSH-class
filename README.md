@@ -71,10 +71,11 @@
          * python manage.py drive --js
      * [設定搖桿值](https://docs.donkeycar.com/utility/donkey/#joystick-wizard)
      * [模擬程式](https://docs.donkeycar.com/guide/simulator/)
-     * [sample data]()
+     * [sample data](https://github.com/autorope/donkey_datasets)
      * [Mobile APP Controller](https://medium.com/robocar-store/robocar-controller-quick-start-guide-bdf8cb16d7ce)
 * 訓練
      * [Train](https://github.com/jumbokh/FSSH-class/blob/main/src/Donkey_Car_Training_using_Google_Colab.ipynb)
+     * [train_predict_test](https://nbviewer.org/github/jumbokh/FSSH-class/blob/main/src/train_predict_test.ipynb)
 * 自駕
 #### python manage.py drive --model ~/mycar/models/mypilo
 ##
