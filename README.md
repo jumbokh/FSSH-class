@@ -62,6 +62,8 @@
 #### 動力架構
 ![動力架構](https://github.com/jumbokh/FSSH-class/blob/main/images/RCAuto.png)
 #### [馬達](https://github.com/jumbokh/FSSH-class/blob/main/MOTOR.md)
+#### 樹莓派控制架構
+![pi4 car](https://github.com/jumbokh/FSSH-class/blob/main/images/4-Figure2-1.png)
 #### 樣本資料 [參考](https://robocaresslingen.github.io/BookDownDocu/donkeyCar.html)
 * left:490
 * right: 390
