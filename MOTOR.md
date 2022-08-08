@@ -1,6 +1,7 @@
 ## Servo & Motor
 ### SG90
 #### 規格
+![SG90](https://github.com/jumbokh/FSSH-class/blob/main/images/sg90.JPG)
 <pre>
 重量：9g
 尺寸：23*12.2*29mm
@@ -12,6 +13,7 @@
 </pre>
 ##
 ### MG90s
+![MG90S](https://github.com/jumbokh/FSSH-class/blob/main/images/mg90s.jpg)
 <pre>
 適用於450直升機斜盤舵機，小型機器人，機械手，船模型，車模型等等，機械轉向，最大角度180度，
 
@@ -32,6 +34,7 @@
 </pre>
 ##
 ### 直流馬達
+![DC Motor](https://github.com/jumbokh/FSSH-class/blob/main/images/dcmotor.jpg)
 <pre>
 使用範圍:有科研電子產品類、機器人電動人體類、泡泡槍玩具槍體類、四驅車玩具汽車類、飛機玩具類、震動產品類等電動玩具產品
 產品:直條雙軸減速馬達
@@ -44,6 +47,7 @@
 </pre>
 ##
 ### 390 碳刷馬達
+![390 Motor](https://github.com/jumbokh/FSSH-class/blob/main/images/390motor.JPG)
 <pre>
 電壓：3V~12V， 建議7.4V左右！
 轉速：3.7V 11000轉左右， 空載電流約0.5A
