@@ -42,7 +42,9 @@
 十一、資料獲取
 十二、訓練數據
 十三、模擬程式
-十四、自主循線駕駛
+十四、Donkey Car 使用 RNN 實作
+十五、Google Colab GPU 雲端訓練
+十六、自主循線駕駛
 </pre>
 #### 開關機, 登入登出, 執行
 * 開機:
@@ -182,3 +184,6 @@ python manage.py drive --js
 * [Duckiebot operation manual](https://docs.duckietown.org/daffy/opmanual_duckiebot/out/index.html)
 * [小鴨城](https://www.raspberrypi.com.tw/34886/official-duckiebot-db18-duckietown?fbclid=IwAR30FxO-y_cS0sUI8zkbCwjwSQ-tKZLFTksugn4lpDag9srgmGWg4ok1fjg)
 * [Youtube : 小車影片收集](https://www.youtube.com/playlist?list=PL3QkiMMAl4cSiUaYW0UOKAzQ3O5zBA1Dc)
+* [Donkey Car實做 (1) 組裝、車道設計](https://medium.com/ljlstyle/donkey-car%E5%AF%A6%E5%81%9A-1-405fd23f0d53)
+* [Donkey Car 在樹莓PI的 初始環境設定(2)](https://medium.com/ljlstyle/donkey-car-%E5%9C%A8%E6%A8%B9%E8%8E%93pi%E7%9A%84-%E5%88%9D%E5%A7%8B%E7%92%B0%E5%A2%83%E8%A8%AD%E5%AE%9A-2-171f51895a2a)
+* [Donkey Car 在樹莓PI的 初始環境設定(3)](https://medium.com/ljlstyle/donkey-car-%E5%9C%A8%E6%A8%B9%E8%8E%93pi%E7%9A%84-%E5%88%9D%E5%A7%8B%E7%92%B0%E5%A2%83%E8%A8%AD%E5%AE%9A-3-dc2376c71856)
