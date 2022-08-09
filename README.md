@@ -7,6 +7,7 @@
 * ### [A self-driving RC car using Raspberry Pi](https://github.com/hamuchiwa/AutoRCCar)
 * ### [Donkeycar 2 - Install, Setup and Run an Autonomous Vehicle](http://www.sroboto.com/2017/08/donkeycar-2-install-setup-and-run.html)
 * ### [Raspbery pi pico Demo Code](https://github.com/jumbokh/FSSH-class/tree/main/src/Raspberry%20Pi%20Pico%20MicroPython%20Demo%20Code)
+* ### [Adafruit ServoKit Library](https://docs.circuitpython.org/projects/servokit/en/latest/)
 ### 工具下載
 * [putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 * [MobaXterm](https://mobaxterm.mobatek.net/download-home-edition.html)
