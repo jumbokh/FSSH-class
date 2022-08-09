@@ -5,6 +5,7 @@
 * ### [Get Your Raspberry Pi Working](https://docs.donkeycar.com/guide/robot_sbc/setup_raspberry_pi/)
 * ### [raspberrypi-get-ip](https://github.com/jumbokh/raspberrypi-get-ip)
 * ### [A self-driving RC car using Raspberry Pi](https://github.com/hamuchiwa/AutoRCCar)
+* ### [Donkeycar 2 - Install, Setup and Run an Autonomous Vehicle](http://www.sroboto.com/2017/08/donkeycar-2-install-setup-and-run.html)
 * ### [Raspbery pi pico Demo Code](https://github.com/jumbokh/FSSH-class/tree/main/src/Raspberry%20Pi%20Pico%20MicroPython%20Demo%20Code)
 ### 工具下載
 * [putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
