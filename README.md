@@ -91,16 +91,8 @@
     * 等到樹莓派的網路燈熄滅
     * 切換開關至 off
 ##
-#### 動力架構
-![動力架構](https://github.com/jumbokh/FSSH-class/blob/main/images/RCAuto.png)
-#### [馬達](https://github.com/jumbokh/FSSH-class/blob/main/MOTOR.md)
-#### [How To Use Rc Esc As Motor Controller](https://synthiam.com/Community/Questions/How-to-use-Rc-esc-as-motor-controller-7045)
-#### 樹莓派控制架構
-![pi4 car](https://github.com/jumbokh/FSSH-class/blob/main/images/4-Figure2-1.png)
 #### 樣本資料 [參考](https://robocaresslingen.github.io/BookDownDocu/donkeyCar.html)
-
 ##
-
 * 執行:
     * Web 控制:
         * 登入樹莓派
@@ -148,6 +140,12 @@ python manage.py drive --js
 * 8.左右撥杆：控制左右移動
 * 9.START(三角形按鈕)：沖出賽道後緊急停止，刪除最後5S記錄
 ##
+#### 動力架構
+![動力架構](https://github.com/jumbokh/FSSH-class/blob/main/images/RCAuto.png)
+#### [馬達](https://github.com/jumbokh/FSSH-class/blob/main/MOTOR.md)
+#### [How To Use Rc Esc As Motor Controller](https://synthiam.com/Community/Questions/How-to-use-Rc-esc-as-motor-controller-7045)
+#### 樹莓派控制架構
+![pi4 car](https://github.com/jumbokh/FSSH-class/blob/main/images/4-Figure2-1.png)
 * ![Pirace pro AI kit](https://github.com/jumbokh/FSSH-class/blob/main/images/PiRacer-Pro-AI-Kit-details-1.jpg)
 * ![xbox搖桿](https://github.com/jumbokh/FSSH-class/blob/main/images/xbox-1.JPG)
 * ![樹莓派4b](https://github.com/jumbokh/FSSH-class/blob/main/images/rpi4.JPG)
