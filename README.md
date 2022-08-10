@@ -46,10 +46,11 @@
 </pre>
 #### 八、Linux security 
 #### 九、pico 的 GPIO實驗
-* [Raspberry pi GPIO](https://github.com/jumbokh/FSSH-class/blob/main/raspberry-gpio.md)
+* [pico 實驗](https://github.com/jumbokh/FSSH-class/tree/main/src/Raspberry%20Pi%20Pico%20MicroPython%20Demo%20Code)
 #### 十、 樹莓派程式開發環境 -- jupyter Notebook
 * [安裝說明](https://github.com/jumbokh/FSSH-class/blob/main/jupyternotebook.md)
 #### 十一、 樹莓派的 GPIO
+* [Raspberry pi GPIO](https://github.com/jumbokh/FSSH-class/blob/main/raspberry-gpio.md)
 #### 十二、校準DonkeyCar
 #### [校準](https://github.com/jumbokh/FSSH-class/blob/main/calibation.md)
    * 方向舵
