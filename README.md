@@ -52,12 +52,10 @@
 #### [校準](https://github.com/jumbokh/FSSH-class/blob/main/calibation.md)
    * 方向舵
    * 油門
-<pre>
-十、搖桿控制
-    * 實作操控小車
-十一、pico 的 GPIO實驗
-</pre>
-##
+#### 十、搖桿控制
+* 自定義搖桿: [create js](https://docs.donkeycar.com/utility/donkey/#joystick-wizard)
+* 實作操控小車
+#### 十一、pico 的 GPIO實驗
 * [Raspberry pi GPIO](https://github.com/jumbokh/FSSH-class/blob/main/raspberry-gpio.md)
 ##
 <pre>
@@ -106,7 +104,7 @@
 #### 樣本資料 [參考](https://robocaresslingen.github.io/BookDownDocu/donkeyCar.html)
 
 ##
-* 自定義搖桿: [create js](https://docs.donkeycar.com/utility/donkey/#joystick-wizard)
+
 * 執行:
     * Web 控制:
         * 登入樹莓派
