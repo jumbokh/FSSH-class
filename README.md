@@ -48,8 +48,11 @@
 ##
 * [安裝說明](https://github.com/jumbokh/FSSH-class/blob/main/jupyternotebook.md)
 ##
+#### 九、校準DonkeyCar
+#### [校準](https://github.com/jumbokh/FSSH-class/blob/main/calibation.md)
+   * 方向舵
+   * 油門
 <pre>
-九、校準DonkeyCar
 十、搖桿控制
     * 實作操控小車
 十一、pico 的 GPIO實驗
@@ -101,9 +104,7 @@
 #### 樹莓派控制架構
 ![pi4 car](https://github.com/jumbokh/FSSH-class/blob/main/images/4-Figure2-1.png)
 #### 樣本資料 [參考](https://robocaresslingen.github.io/BookDownDocu/donkeyCar.html)
-#### [校準](https://github.com/jumbokh/FSSH-class/blob/main/calibation.md)
-   * 方向舵
-   * 油門
+
 ##
 * 自定義搖桿: [create js](https://docs.donkeycar.com/utility/donkey/#joystick-wizard)
 * 執行:
