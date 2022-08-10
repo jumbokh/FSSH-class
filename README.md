@@ -43,24 +43,21 @@
 六、Raspberry pi pico 與 Micropython
 七、連接硬體-相機教學-擷取影像、照片等控制實作
     * 實作相機連線測試
-八、Linux security and Jupyter Lab 安裝
 </pre>
-##
+八、Linux security and Jupyter Lab 安裝
 * [安裝說明](https://github.com/jumbokh/FSSH-class/blob/main/jupyternotebook.md)
+#### 九、pico 的 GPIO實驗
+* [Raspberry pi GPIO](https://github.com/jumbokh/FSSH-class/blob/main/raspberry-gpio.md)
 ##
-#### 九、校準DonkeyCar
+#### 十、 樹莓派程式開發環境 -- jupyter Notebook
+#### 十一、 樹莓派的 GPIO
+#### 十二、校準DonkeyCar
 #### [校準](https://github.com/jumbokh/FSSH-class/blob/main/calibation.md)
    * 方向舵
    * 油門
-#### 十、搖桿控制
+#### 十三、搖桿控制
 * 自定義搖桿: [create js](https://docs.donkeycar.com/utility/donkey/#joystick-wizard)
 * 實作操控小車
-#### 十一、pico 的 GPIO實驗
-* [Raspberry pi GPIO](https://github.com/jumbokh/FSSH-class/blob/main/raspberry-gpio.md)
-##
-<pre>
-十二、 樹莓派程式開發環境 -- jupyter Notebook
-十三、 樹莓派的 GPIO
 十四、資料獲取
 十五、訓練數據
 十六、模擬程式
