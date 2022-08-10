@@ -120,9 +120,6 @@
 * 自駕
 #### python manage.py drive --model ~/mycar/models/mypilo
 ##
-* ![Pirace pro AI kit](https://github.com/jumbokh/FSSH-class/blob/main/images/PiRacer-Pro-AI-Kit-details-1.jpg)
-* ![xbox搖桿](https://github.com/jumbokh/FSSH-class/blob/main/images/xbox-1.JPG)
-* ![樹莓派4b](https://github.com/jumbokh/FSSH-class/blob/main/images/rpi4.JPG)
 ### [官網教材](https://www.waveshare.net/wiki/PiRacer_Pro_AI_Kit)
 * [DonkeyCar for PiRacer Pro 教程一、Raspberry Pi安装](https://www.waveshare.net/wiki/DonkeyCar_for_PiRacer_Pro_%E6%95%99%E7%A8%8B%E4%B8%80%E3%80%81Raspberry_Pi%E5%AE%89%E8%A3%85)
     * [燒錄及初步設定樹莓派](https://github.com/jumbokh/FSSH-class/blob/main/docs/Rpi-Headless.pptx)
@@ -134,11 +131,6 @@
 * [DonkeyCar for PiRacer Pro 教程七、训练数据](https://www.waveshare.net/wiki/DonkeyCar_for_PiRacer_Pro_%E6%95%99%E7%A8%8B%E4%B8%83%E3%80%81%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE)
 * [DonkeyCar for PiRacer Pro 教程八、自主巡线驾驶](https://www.waveshare.net/wiki/DonkeyCar_for_PiRacer_Pro_%E6%95%99%E7%A8%8B%E5%85%AB%E3%80%81%E8%87%AA%E4%B8%BB%E5%B7%A1%E7%BA%BF%E9%A9%BE%E9%A9%B6)
 ##
-### RC車架
-* ![detail](https://github.com/jumbokh/FSSH-class/blob/main/images/PiRacer-Pro-AI-Kit-details-11.jpg)
-### 越野RC車架
-* ![越野](https://github.com/jumbokh/FSSH-class/blob/main/images/TB2Vpdtt3FkpuFjSspnXXb4qFXa_!!14410097.jpg)
-* ![圖](https://github.com/jumbokh/FSSH-class/blob/main/images/750-7.jpg)
 ### 韌體
 * [韌體 2021/3/26 版](https://drive.google.com/file/d/1Aa8K9HLEXGwRDT_qKlzEl3OWGgNNAMNs/view?usp=sharing)
 ### 搖桿操控
@@ -161,6 +153,14 @@ python manage.py drive --js
 * 8.左右撥杆：控制左右移動
 * 9.START(三角形按鈕)：沖出賽道後緊急停止，刪除最後5S記錄
 ##
+* ![Pirace pro AI kit](https://github.com/jumbokh/FSSH-class/blob/main/images/PiRacer-Pro-AI-Kit-details-1.jpg)
+* ![xbox搖桿](https://github.com/jumbokh/FSSH-class/blob/main/images/xbox-1.JPG)
+* ![樹莓派4b](https://github.com/jumbokh/FSSH-class/blob/main/images/rpi4.JPG)
+### RC車架
+* ![detail](https://github.com/jumbokh/FSSH-class/blob/main/images/PiRacer-Pro-AI-Kit-details-11.jpg)
+### 越野RC車架
+* ![越野](https://github.com/jumbokh/FSSH-class/blob/main/images/TB2Vpdtt3FkpuFjSspnXXb4qFXa_!!14410097.jpg)
+* ![圖](https://github.com/jumbokh/FSSH-class/blob/main/images/750-7.jpg)
 #### 參考網站
 * [Samba Share](https://www.waveshare.net/study/article-1047-1.html)
 * [樹莓派燒錄步驟](https://atceiling.blogspot.com/2020/03/raspberry-pi-67-sdimagersdformatter.html)
