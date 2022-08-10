@@ -15,9 +15,9 @@ GPIO.setmode(GPIO.BCM)
 #### 在撰寫程式時要先清楚你指定的數字要使用的是GPIO.BOARD或是GPIO.BCM的方式
 ##
 ### Lab
-* Lab1 [Lab1_LED]()
-* Lab2 [Lab2_DHT11]()
-* Lab3 [Lab3 RC電路]()
-* Lab4 [Lab4 光感測]()
-* Lab5 [Lab5 超音波測距]()
+* Lab1 [Lab1_LED](https://github.com/jumbokh/FSSH-class/blob/main/rpi_src/LAB1_LED.ipynb)
+* Lab2 [Lab2_DHT11](https://github.com/jumbokh/FSSH-class/blob/main/rpi_src/LAB2_DHT11.ipynb)
+* Lab3 [Lab3 RC電路](https://github.com/jumbokh/FSSH-class/blob/main/rpi_src/LAB3_RC.ipynb)
+* Lab4 [Lab4 光感測](https://github.com/jumbokh/FSSH-class/blob/main/rpi_src/LAB4_Lighting.ipynb)
+* Lab5 [Lab5 超音波測距](https://github.com/jumbokh/FSSH-class/blob/main/rpi_src/ultrasonic.py)
 ##
