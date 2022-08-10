@@ -56,7 +56,25 @@
    * 方向舵
    * 油門
 #### 十三、搖桿控制
+<pre>
+cd ~/mycar
+python manage.py drive --js
+</pre>
+##
 * 自定義搖桿: [create js](https://docs.donkeycar.com/utility/donkey/#joystick-wizard)
+### 如果想默認啟動遊戲搖杆，不希望每次都添加--js,請修改config.py，將USE_JOYSTICK_AS_DEFAULT的值改為 True。
+#### [搖桿控制](https://www.waveshare.net/wiki/DonkeyCar_for_PiRacer_Pro_%E6%95%99%E7%A8%8B%E4%BA%94%E3%80%81%E6%B8%B8%E6%88%8F%E6%9D%86%E6%8E%A7%E5%88%B6)
+* 1.L-1:減小油門比例
+* L-2:前進
+* 2.R-1:增大油門比例
+* R-2:後退
+* 3.Y：緊急停止（往前行駛）
+* 4.B：自動記錄資料，需要聯網
+* 5.A：切換模式
+* 6.X：擦除前十個數據
+* 7.前後撥杆：控制前後移動
+* 8.左右撥杆：控制左右移動
+* 9.START(三角形按鈕)：沖出賽道後緊急停止，刪除最後5S記錄
 * 實作操控小車
 #### 十四、資料獲取
 #### 十五、訓練數據
@@ -120,25 +138,7 @@
 ##
 ### 韌體
 * [韌體 2021/3/26 版](https://drive.google.com/file/d/1Aa8K9HLEXGwRDT_qKlzEl3OWGgNNAMNs/view?usp=sharing)
-### 搖桿操控
-<pre>
-cd ~/mycar
-python manage.py drive --js
-</pre>
-##
-### 如果想默認啟動遊戲搖杆，不希望每次都添加--js,請修改config.py，將USE_JOYSTICK_AS_DEFAULT的值改為 True。
-#### [搖桿控制](https://www.waveshare.net/wiki/DonkeyCar_for_PiRacer_Pro_%E6%95%99%E7%A8%8B%E4%BA%94%E3%80%81%E6%B8%B8%E6%88%8F%E6%9D%86%E6%8E%A7%E5%88%B6)
-* 1.L-1:減小油門比例
-* L-2:前進
-* 2.R-1:增大油門比例
-* R-2:後退
-* 3.Y：緊急停止（往前行駛）
-* 4.B：自動記錄資料，需要聯網
-* 5.A：切換模式
-* 6.X：擦除前十個數據
-* 7.前後撥杆：控制前後移動
-* 8.左右撥杆：控制左右移動
-* 9.START(三角形按鈕)：沖出賽道後緊急停止，刪除最後5S記錄
+
 ##
 #### 動力架構
 ![動力架構](https://github.com/jumbokh/FSSH-class/blob/main/images/RCAuto.png)
