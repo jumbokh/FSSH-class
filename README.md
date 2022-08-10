@@ -33,18 +33,24 @@
 七、連接硬體-相機教學-擷取影像、照片等控制實作
     * 實作相機連線測試
 八、Linux security and Jupyter Lab 安裝
+</pre>
     * [安裝說明](https://github.com/jumbokh/FSSH-class/blob/main/jupyternotebook.md)
+<pre>
 九、校準DonkeyCar
 十、搖桿控制
     * 實作操控小車
 十一、pico 的 GPIO實驗
+</pre>
     * [Raspberry pi GPIO](https://github.com/jumbokh/FSSH-class/blob/main/raspberry-gpio.md)
+<pre>
 十二、 樹莓派程式開發環境 -- jupyter Notebook
 十三、 樹莓派的 GPIO
 十四、資料獲取
 十五、訓練數據
 十六、模擬程式
+</pre>
     * [程式安裝](https://github.com/jumbokh/FSSH-class/blob/main/Simulate.md)
+<pre>
 十七、機器學習相關基礎知識
     * 影像分類應用
     * 認識卷積神經網路
