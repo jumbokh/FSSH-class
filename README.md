@@ -32,7 +32,7 @@
 六、Raspberry pi pico 與 Micropython
 七、連接硬體-相機教學-擷取影像、照片等控制實作
     * 實作相機連線測試
-八、Linux security
+八、Linux security and Jupyter Lab 安裝
 九、校準DonkeyCar
 十、搖桿控制
     * 實作操控小車
