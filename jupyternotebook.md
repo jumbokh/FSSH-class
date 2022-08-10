@@ -31,6 +31,7 @@ $ sudo pip3 install setuptools
 $ sudo apt install libffi-dev
 $ sudo pip3 install cffi
 $ pip3 install jupyterlab
+$ mkdir ~/notebooks
 </pre>
 ### Setup Jupyter lab as a service
 #### Run below command to locate your jupyter lab binary:
