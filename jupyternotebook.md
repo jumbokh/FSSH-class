@@ -67,6 +67,7 @@ $ sudo systemctl start jupyter.service
 $ sudo systemctl status jupyter.service
 </pre>
 ##
+### 另一說明
 * sudo pip3 install jupyter    
 * jupyter notebook --generate-config
 * 修改 ~/.jupyter/jupyter_notebook_config.py 找到 
