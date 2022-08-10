@@ -148,21 +148,19 @@ python manage.py drive --js
 </pre>
 ##
 ### 如果想默認啟動遊戲搖杆，不希望每次都添加--js,請修改config.py，將USE_JOYSTICK_AS_DEFAULT的值改為 True。
-#### 搖桿控制
-* 左側模擬搖杆 - 左右調整轉向
-* 右側模擬杆 - 向前增加前進油門
-* 向右拉回兩次模擬量以反轉
-* 每當油門不為零時，只要您處於使用者模式，就會記錄駕駛資料！
-* 選擇按鈕切換模式-“User, Local Angle, Local(angle and throttle)”
-* Triangle-增加最大油門
-* X-降低最大油門
-* 迴圈-切換錄製（預設情況下禁用。預設情況下啟用油門自動錄製）
-* dpad up-增加油門比例
-* dpad down -減小油門比例
-* dpad left -增加轉向比例
-* dpad right -減小轉向比例
-* start - 切換恒定油門。設置為最大油門（由X和Triangle修改）
-
+#### [搖桿控制](https://www.waveshare.net/wiki/DonkeyCar_for_PiRacer_Pro_%E6%95%99%E7%A8%8B%E4%BA%94%E3%80%81%E6%B8%B8%E6%88%8F%E6%9D%86%E6%8E%A7%E5%88%B6)
+* 1.L-1:減小油門比例
+* L-2:前進
+* 2.R-1:增大油門比例
+* R-2:後退
+* 3.Y：緊急停止（往前行駛）
+* 4.B：自動記錄資料，需要聯網
+* 5.A：切換模式
+* 6.X：擦除前十個數據
+* 7.前後撥杆：控制前後移動
+* 8.左右撥杆：控制左右移動
+* 9.START(三角形按鈕)：沖出賽道後緊急停止，刪除最後5S記錄
+##
 #### 參考網站
 * [Samba Share](https://www.waveshare.net/study/article-1047-1.html)
 * [樹莓派燒錄步驟](https://atceiling.blogspot.com/2020/03/raspberry-pi-67-sdimagersdformatter.html)
