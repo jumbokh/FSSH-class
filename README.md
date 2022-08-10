@@ -54,7 +54,7 @@
 十六、模擬程式
 </pre>
 ##
-* [程式安裝](https://github.com/jumbokh/FSSH-class/blob/main/Simulate.md)
+* [模擬程式安裝](https://github.com/jumbokh/FSSH-class/blob/main/Simulate.md)
 ##
 <pre>
 十七、機器學習相關基礎知識
