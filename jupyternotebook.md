@@ -30,7 +30,7 @@ $ sudo apt-get install python3-pip
 $ sudo pip3 install setuptools
 $ sudo apt install libffi-dev
 $ sudo pip3 install cffi
-pip3 install jupyterlab
+$ pip3 install jupyterlab
 </pre>
 ### Setup Jupyter lab as a service
 #### Run below command to locate your jupyter lab binary:
