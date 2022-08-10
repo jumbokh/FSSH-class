@@ -58,11 +58,9 @@
 #### 十三、搖桿控制
 * 自定義搖桿: [create js](https://docs.donkeycar.com/utility/donkey/#joystick-wizard)
 * 實作操控小車
-十四、資料獲取
-十五、訓練數據
-十六、模擬程式
-</pre>
-##
+#### 十四、資料獲取
+#### 十五、訓練數據
+#### 十六、模擬程式
 * [模擬程式安裝](https://github.com/jumbokh/FSSH-class/blob/main/Simulate.md)
 ##
 <pre>
