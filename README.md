@@ -185,3 +185,4 @@ python manage.py drive --js
 * [Donkey Car實做 (1) 組裝、車道設計](https://medium.com/ljlstyle/donkey-car%E5%AF%A6%E5%81%9A-1-405fd23f0d53)
 * [Donkey Car 在樹莓PI的 初始環境設定(2)](https://medium.com/ljlstyle/donkey-car-%E5%9C%A8%E6%A8%B9%E8%8E%93pi%E7%9A%84-%E5%88%9D%E5%A7%8B%E7%92%B0%E5%A2%83%E8%A8%AD%E5%AE%9A-2-171f51895a2a)
 * [Donkey Car 在樹莓PI的 初始環境設定(3)](https://medium.com/ljlstyle/donkey-car-%E5%9C%A8%E6%A8%B9%E8%8E%93pi%E7%9A%84-%E5%88%9D%E5%A7%8B%E7%92%B0%E5%A2%83%E8%A8%AD%E5%AE%9A-3-dc2376c71856)
+* [Training an autonomous pilot for the DonkeyCar](https://kmnerlich.com/delta_x_training_donkey_car/)
