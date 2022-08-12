@@ -12,7 +12,7 @@
 ##### put at: D:\projects\DonkeySimLinux
 <pre>
 d:
-mkdir projects
+mkdir d:\projects
 cd D:\projects
 </pre>
 ## 下載 [DonkeySim for WIndows](https://github.com/tawnkramer/gym-donkeycar/releases/download/v22.05.30/DonkeySimWin.zip)
