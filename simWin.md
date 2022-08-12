@@ -25,8 +25,9 @@ git clone https://github.com/autorope/donkeycar
 cd donkeycar
 git checkout master
 pip install -e .
+cd d:\projects
 git clone https://github.com/tawnkramer/gym-donkeycar
-cd gym-donkeycar
+cd d:\projects\gym-donkeycar
 pip install -e .[gym-donkeycar]
 cd D:\projects\donkeycar
 donkey createcar --path=d:\mycar
