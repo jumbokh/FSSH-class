@@ -28,6 +28,8 @@ pip install -e .
 git clone https://github.com/tawnkramer/gym-donkeycar
 cd gym-donkeycar
 pip install -e .[gym-donkeycar]
+cd D:\projects\donkeycar
+donkey createcar --path=d:\mycar
 </pre>
 #### Edit myconfig.py
 <pre>
