@@ -80,6 +80,7 @@ python manage.py drive --js
 #### 十五、訓練數據
 #### 十六、模擬程式
 * [模擬程式安裝](https://github.com/jumbokh/FSSH-class/blob/main/Simulate.md)
+* [Windows環境安裝模擬程式](https://github.com/jumbokh/FSSH-class/blob/main/simWin.md)
 ##
 <pre>
 十七、機器學習相關基礎知識
