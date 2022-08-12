@@ -1,7 +1,7 @@
 ### Donkey car simulator for Windows
 #### 需要軟體:
-* 1. python (Anaconda)
-* 2. git command
+* 1. python [Anaconda](https://www.anaconda.com/products/distribution)
+* 2. [git command](https://git-scm.com/download/win)
 * 3. donkeycar
 * 4. [gym-donkeycar]()
 * 5. [DonkeySimWin](https://github.com/tawnkramer/gym-donkeycar/releases/download/v22.05.30/DonkeySimWin.zip)
