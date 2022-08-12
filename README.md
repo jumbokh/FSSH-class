@@ -45,7 +45,7 @@
     * 實作相機連線測試
 </pre>
 #### 八、Linux security 
-#### 九、pico 的 GPIO實驗
+#### 九、pico 的 GPIO實驗 [raspberry-pi-pico-python-sdk](https://github.com/01studio-lab/MicroPython_Examples/blob/master/pyPico/raspberry-pi-pico-python-sdk.pdf)
 * [pico 實驗](https://github.com/jumbokh/FSSH-class/tree/main/src/Raspberry%20Pi%20Pico%20MicroPython%20Demo%20Code)
 #### 十、 樹莓派程式開發環境 -- jupyter Notebook
 * [安裝說明](https://github.com/jumbokh/FSSH-class/blob/main/jupyternotebook.md)
