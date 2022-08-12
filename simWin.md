@@ -14,8 +14,8 @@
 d:
 mkdir projects
 cd D:\projects
-## 下載 [DonkeySim for WIndows](https://github.com/tawnkramer/gym-donkeycar/releases/download/v22.05.30/DonkeySimWin.zip)
 </pre>
+## 下載 [DonkeySim for WIndows](https://github.com/tawnkramer/gym-donkeycar/releases/download/v22.05.30/DonkeySimWin.zip)
 ##
 #### Setup
 <pre>
