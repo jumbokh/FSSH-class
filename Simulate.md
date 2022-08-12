@@ -13,7 +13,6 @@ unzip DonkeySimLinux.zip
 cd ~/projects
 git clone https://github.com/tawnkramer/gym-donkeycar
 cd gym-donkeycar
-conda activate donkey
 pip install -e .[gym-donkeycar]
 </pre>
 #### Edit myconfig.py
