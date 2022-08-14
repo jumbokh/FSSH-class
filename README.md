@@ -82,6 +82,7 @@ python manage.py drive --js
 * [模擬程式安裝](https://github.com/jumbokh/FSSH-class/blob/main/Simulate.md)
 * [Windows環境安裝模擬程式](https://github.com/jumbokh/FSSH-class/blob/main/simWin.md)
 ##
+#### [深度學習 Deep Learning](https://github.com/jumbokh/FSSH-class/blob/main/DeeLearning.md)
 <pre>
 十七、機器學習相關基礎知識
     * 影像分類應用
