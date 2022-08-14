@@ -12,6 +12,7 @@
 * [用 CNN 做圖形辨識](https://github.com/jumbokh/FSSH-class/blob/main/src/02-1.%20%E7%94%A8CNN%E5%9C%96%E5%BD%A2%E8%BE%A8%E8%AD%98%EF%BC%88%E9%82%84%E6%98%AFMNIST%EF%BC%89.ipynb)
 * [Donkey Car Training  modified using Google Colab](https://colab.research.google.com/github/jumbokh/FSSH-class/blob/main/src/2020-03-01-TrainDonkeyCar.ipynb)
 * [Donkey_Car_Training_using_Google_Colab](https://github.com/jumbokh/FSSH-class/blob/main/src/Donkey_Car_Training_using_Google_Colab.ipynb)
+* [02-1. 用CNN圖形辨識（還是MNIST）.ipynb](https://github.com/jumbokh/FSSH-class/blob/main/src/02-1.%20%E7%94%A8CNN%E5%9C%96%E5%BD%A2%E8%BE%A8%E8%AD%98%EF%BC%88%E9%82%84%E6%98%AFMNIST%EF%BC%89.ipynb)
 
 ##
 #### PPT
