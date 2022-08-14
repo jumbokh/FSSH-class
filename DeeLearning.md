@@ -2,6 +2,7 @@
 #### 參考
 * [深智 DM2145](https://github.com/mc6666/DL_Book)
 * [MOOC 課程](https://github.com/jumbokh/Deep-Learning-MOOC)
+* [Raspberry Pi Swap Size](https://cloudolife.com/2021/01/01/Raspberry-Pi/Resizing-or-disable-Swap-Size/)
 ##
 #### 程式
 * [Donkey Car Training  modified using Google Colab](https://colab.research.google.com/github/jumbokh/FSSH-class/blob/main/src/2020-03-01-TrainDonkeyCar.ipynb)
