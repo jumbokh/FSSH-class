@@ -7,7 +7,6 @@
 * [Donkey Car Training  modified using Google Colab](https://colab.research.google.com/github/jumbokh/FSSH-class/blob/main/src/2020-03-01-TrainDonkeyCar.ipynb)
 * [Donkey_Car_Training_using_Google_Colab](https://github.com/jumbokh/FSSH-class/blob/main/src/Donkey_Car_Training_using_Google_Colab.ipynb)
 * [用 CNN 做圖形辨識](https://github.com/jumbokh/FSSH-class/blob/main/src/02-1.%20%E7%94%A8CNN%E5%9C%96%E5%BD%A2%E8%BE%A8%E8%AD%98%EF%BC%88%E9%82%84%E6%98%AFMNIST%EF%BC%89.ipynb)
-* 
 ##
 #### PPT
 * [二元分類](https://github.com/jumbokh/FSSH-class/blob/main/docs/%E4%BA%8C%E5%85%83%E5%88%86%E9%A1%9E.ppt)
