@@ -11,7 +11,7 @@
 ##
 #### PPT
 * [二元分類](https://github.com/jumbokh/FSSH-class/blob/main/docs/%E4%BA%8C%E5%85%83%E5%88%86%E9%A1%9E.ppt)
-* [一天搞懂深度學習 -- 台大 李宏毅(https://github.com/jumbokh/FSSH-class/blob/main/docs/%E6%9D%8E%E5%AE%8F%E6%AF%85-%E4%B8%80%E5%A4%A9%E6%90%9E%E6%87%82%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92.pdf)
+* [一天搞懂深度學習 -- 台大 李宏毅](https://github.com/jumbokh/FSSH-class/blob/main/docs/%E6%9D%8E%E5%AE%8F%E6%AF%85-%E4%B8%80%E5%A4%A9%E6%90%9E%E6%87%82%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92.pdf)
 * [introduction-to-donkeycar-project](https://github.com/jumbokh/FSSH-class/blob/main/docs/introduction-to-donkeycar-project-190923012221%20(1).pdf)
 ##
 #### 自主駕車訓練
