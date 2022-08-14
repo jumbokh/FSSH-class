@@ -12,6 +12,7 @@
     * ### [Using the Adafruit Library](https://learn.adafruit.com/adafruit-16-channel-servo-driver-with-raspberry-pi/using-the-adafruit-library)
     * ### [Library Reference](https://learn.adafruit.com/adafruit-16-channel-servo-driver-with-raspberry-pi/library-reference)
 * ### [官網教材](https://www.waveshare.net/wiki/PiRacer_Pro_AI_Kit)
+* ### [JetBot 相關](https://blog.cavedu.com/?s=JETBOT&fbclid=IwAR1d4ZSgAwAYsGUh8e7_1HkQO1El8phAlPIIpNMfzMIxPwN73EZZwWw5pdQ)
 * [DonkeyCar for PiRacer Pro 教程一、Raspberry Pi安装](https://www.waveshare.net/wiki/DonkeyCar_for_PiRacer_Pro_%E6%95%99%E7%A8%8B%E4%B8%80%E3%80%81Raspberry_Pi%E5%AE%89%E8%A3%85)
     * [燒錄及初步設定樹莓派](https://github.com/jumbokh/FSSH-class/blob/main/docs/Rpi-Headless.pptx)
 * [DonkeyCar for PiRacer Pro 教程二、Linux PC安装](https://www.waveshare.net/wiki/DonkeyCar_for_PiRacer_Pro_%E6%95%99%E7%A8%8B%E4%BA%8C%E3%80%81Linux_PC%E5%AE%89%E8%A3%85)
