@@ -10,8 +10,8 @@
 * [用 CNN 做圖形辨識](https://github.com/jumbokh/FSSH-class/blob/main/src/02-1.%20%E7%94%A8CNN%E5%9C%96%E5%BD%A2%E8%BE%A8%E8%AD%98%EF%BC%88%E9%82%84%E6%98%AFMNIST%EF%BC%89.ipynb)
 ##
 #### PPT
-* [二元分類](https://github.com/jumbokh/FSSH-class/blob/main/docs/%E4%BA%8C%E5%85%83%E5%88%86%E9%A1%9E.ppt)
 * [一天搞懂深度學習 -- 台大 李宏毅](https://github.com/jumbokh/FSSH-class/blob/main/docs/%E6%9D%8E%E5%AE%8F%E6%AF%85-%E4%B8%80%E5%A4%A9%E6%90%9E%E6%87%82%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92.pdf)
+* [二元分類](https://github.com/jumbokh/FSSH-class/blob/main/docs/%E4%BA%8C%E5%85%83%E5%88%86%E9%A1%9E.ppt)
 * [introduction-to-donkeycar-project](https://github.com/jumbokh/FSSH-class/blob/main/docs/introduction-to-donkeycar-project-190923012221%20(1).pdf)
 ##
 #### 自主駕車訓練
