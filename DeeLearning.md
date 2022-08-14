@@ -3,7 +3,8 @@
 * [深智 DM2145](https://github.com/mc6666/DL_Book)
 * [MOOC 課程](https://github.com/jumbokh/Deep-Learning-MOOC)
 * [Raspberry Pi Swap Size](https://cloudolife.com/2021/01/01/Raspberry-Pi/Resizing-or-disable-Swap-Size/)
-* [使用Haar Cascade 進行人臉識別](https://blog.csdn.net/wutao1530663/article/details/78294349)
+* [使用Haar Cascade 進行人臉識別](https://blog.csdn.net/wutao1530663/article/details/78294349) 
+* [opencv Cascade Classifier Training](https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html)
 * [Haar Train](https://github.com/jumbokh/cv_face/tree/master/opencv/day3)
 * [haarcascades](https://github.com/opencv/opencv/tree/master/data/haarcascades)
 ##
