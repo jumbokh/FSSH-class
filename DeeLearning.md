@@ -5,6 +5,7 @@
 * [Raspberry Pi Swap Size](https://cloudolife.com/2021/01/01/Raspberry-Pi/Resizing-or-disable-Swap-Size/)
 * [使用Haar Cascade 進行人臉識別](https://blog.csdn.net/wutao1530663/article/details/78294349)
 * [Haar Train](https://github.com/jumbokh/cv_face/tree/master/opencv/day3)
+* [haarcascades](https://github.com/opencv/opencv/tree/master/data/haarcascades)
 ##
 #### 程式
 * [用 CNN 做圖形辨識](https://github.com/jumbokh/FSSH-class/blob/main/src/02-1.%20%E7%94%A8CNN%E5%9C%96%E5%BD%A2%E8%BE%A8%E8%AD%98%EF%BC%88%E9%82%84%E6%98%AFMNIST%EF%BC%89.ipynb)
