@@ -174,7 +174,7 @@ python manage.py drive --js
 * [驢車(Donkey Car)，一個基於 Raspberry Pi 與機器學習的開源無人小車專案介紹](https://www.slideshare.net/raspberrypi-tw/donkey-car-raspberry-pi?qid=21ac0c87-65e4-41ec-a987-446185fc65f0&v=&b=&from_search=4)
 * Youtube: [Building Custom Self Driving Car with Donkey Car under 10 mints.](https://www.youtube.com/watch?v=J6Ll5Obtuxk)
 * RC車架: [配件](https://item.taobao.com/item.htm?spm=2013.1.0.0.3f4a6ab2ngyMkn&id=553479800530)
-* [舵機 E6001](https://item.taobao.com/item.htm?spm=a230r.1.14.55.5cdb726dISP3VD&id=620613325708&ns=1&abbucket=14#detail)
+* [舵機 E6001](https://shopee.tw/*%E5%8D%A1%E5%8D%A1%E6%A8%A1%E5%9E%8B*-RC%E6%98%9F%E6%9C%9FHSP-%E7%84%A1%E9%99%90%E5%8E%9F%E5%BB%A0%E4%BB%B6-6KG%E4%BC%BA%E6%9C%8D%E5%99%A8-6%E5%85%AC%E6%96%A4%E8%BD%89%E5%90%91%E8%88%B5%E6%A9%9F-SP6001-E6001-%E5%B8%B6%E8%88%B5%E6%A9%9F%E8%87%82-i.6242694.3839215420?sp_atk=d7bff270-34d3-43ad-998c-5db327e0f788&xptdk=d7bff270-34d3-43ad-998c-5db327e0f788)
 * [RC380強磁碳刷馬達](https://item.taobao.com/item.htm?spm=a230r.1.14.101.42445bb7AZYmQV&id=613122254964&ns=1&abbucket=14#detail)
 * [轉向機](https://item.taobao.com/item.htm?id=543223247962&ali_refid=a3_430620_1006:1121604386:N:gs34vNq9Nhih8xV68YYY%2BmzNxn5UFqDD:48d194d12f815ce4483a1fa3c5447730&ali_trackid=1_48d194d12f815ce4483a1fa3c5447730&spm=a230r.1.14.1#detail)
 * [Raspberry pi 4B 4G](https://item.taobao.com/item.htm?id=596761703325&ali_refid=a3_430620_1006:1110571867:N:nu18v9KpIqv%2BIEc3RDNh2bHs5uAbSgnc:3df60e4ec69bd4d780300e513d083020&ali_trackid=1_3df60e4ec69bd4d780300e513d083020&spm=a230r.1.14.1#detail)
