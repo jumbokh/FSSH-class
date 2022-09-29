@@ -1,0 +1,48 @@
+Reference:https://github.com/jbarguil/raspberrypi-get-ip
+          https://yamm.com/blog/send-password-protected-email-in-gmail/
+		  https://www.learncodewithmike.com/2020/02/python-email.html
+
+1. sudo apt-get install msmtp msmtp-mta
+2. ~/.msmtprc  /etc/msmtprc
+# Generics
+defaults
+auth           on
+tls            on
+# following is different from ssmtp:
+tls_trust_file /etc/ssl/certs/ca-certificates.crt
+# user specific log location, otherwise use /var/log/msmtp.log, however, 
+# this will create an access violation if you are user pi, and have not changes the access rights
+logfile        ~/.msmtp.log
+
+# Gmail specifics
+account        gmail
+host           smtp.gmail.com
+port           587
+
+from          root@raspi-buster
+user           your-gmail-accountname@gmail.com
+password       your-gmail-account-password
+
+# Default
+account default : gmail
+3. $ echo "Hello world!" | msmtp you@example.com
+
+4. Create a file named mail_ip.sh
+mailto="you@example.com"
+ip=`ip route list | awk '{print NR,$(NF-2)}'`
+
+{
+	echo To: $mailto
+       	echo "Subject: [RasPi] My IP"
+	echo "$ip"
+} | /usr/bin/msmtp $mailto
+echo "$ip"
+echo "Finished running at `date`"
+
+5. 
+$ chmod +x mail_ip.sh
+$ ./mail_ip.sh
+
+6. $ crontab -e
+@reboot sleep 120 && /home/jumbo/mail_ip.sh > /home/jumbo/mail_ip.log 2>&1
+
