@@ -14,6 +14,7 @@
 * ### [官網教材](https://www.waveshare.net/wiki/PiRacer_Pro_AI_Kit)
 * ### [JetBot 相關](https://blog.cavedu.com/?s=JETBOT&fbclid=IwAR1d4ZSgAwAYsGUh8e7_1HkQO1El8phAlPIIpNMfzMIxPwN73EZZwWw5pdQ)
 * ### [JetCar](https://github.com/NVIDIA-AI-IOT/jetracer/tree/master)
+* ### [Train](https://github.com/NVIDIA-AI-IOT/jetbot/tree/master/notebooks/collision_avoidance)
 * ### [Raspberry Pi x 深度學習 x 視覺辨識](https://github.com/cavedunissin/ai-car)
 * [DonkeyCar for PiRacer Pro 教程一、Raspberry Pi安装](https://www.waveshare.net/wiki/DonkeyCar_for_PiRacer_Pro_%E6%95%99%E7%A8%8B%E4%B8%80%E3%80%81Raspberry_Pi%E5%AE%89%E8%A3%85)
     * [燒錄及初步設定樹莓派](https://github.com/jumbokh/FSSH-class/blob/main/docs/Rpi-Headless.pptx)
