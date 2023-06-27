@@ -161,6 +161,7 @@ python manage.py drive --js
 * ![越野](https://github.com/jumbokh/FSSH-class/blob/main/images/TB2Vpdtt3FkpuFjSspnXXb4qFXa_!!14410097.jpg)
 * ![圖](https://github.com/jumbokh/FSSH-class/blob/main/images/750-7.jpg)
 #### 參考網站
+* [人工智慧教學模組 RK-AI競速車套件](https://blog.cavedu.com/2019/12/02/jet-racer/)
 * [Samba Share](https://www.waveshare.net/study/article-1047-1.html)
 * [樹莓派燒錄步驟](https://atceiling.blogspot.com/2020/03/raspberry-pi-67-sdimagersdformatter.html)
 * SD卡格式化 [SD Formater](https://www.azofreeware.com/2013/12/sd-formatter-40-sd.html)
