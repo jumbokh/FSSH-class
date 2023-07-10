@@ -15,7 +15,7 @@ gym
   
 ```
 ##
-* pip install tensorflow
+* conda install tensorflow
 * [DonkeySimWin](https://github.com/tawnkramer/gym-donkeycar/releases/download/v22.11.06/DonkeySimWin.zip)
 * pip install git+https://github.com/tawnkramer/gym-donkeycar
 ### Donkey Simulator
