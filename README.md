@@ -1,4 +1,5 @@
 # FSSH-class: 
+#### [wifi setting](https://github.com/jumbokh/rpi_class/blob/master/Installation/first_time_setting.md)
 * ### [DonkeyCar Trainning Tutorial](https://github.com/jumbokh/FSSH-class/blob/main/docs/DonkeyCar-Tutorial.pptx)
 * ### [DonkeyCar](https://docs.donkeycar.com/)
 * ### [微雪官網](https://www.waveshare.net/wiki/PiRacer_Pro_AI_Kit) [English](https://www.waveshare.com/wiki/PiRacer_Pro_AI_Kit)
