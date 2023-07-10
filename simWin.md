@@ -2,7 +2,23 @@
 #### 需要軟體:
 * 1. python [Anaconda](https://www.anaconda.com/products/distribution)
 * 2. [git command](https://git-scm.com/download/win)
-* 3. donkeycar
+* 3. donkeycar: git clone https://github.com/autorope/donkeycar
+```
+git clone https://github.com/autorope/donkeycar
+cd donkeycar
+git fetch --all --tags -f
+git checkout tags/4.4.0
+```
+```
+conda update -n base -c defaults conda
+conda env remove -n donkey
+```
+```
+conda env create -f install\envs\windows.yml
+conda activate donkey
+pip install --user tensorflow==2.9
+pip install -e .[pc]
+```
 * 4. [gym-donkeycar](https://github.com/tawnkramer/gym-donkeycar/releases)
 * 5. [DonkeySimWin](https://github.com/tawnkramer/gym-donkeycar/releases/download/v22.05.30/DonkeySimWin.zip)
 ##
