@@ -1,3 +1,23 @@
+## Refer: https://github.com/tawnkramer/sdsandbox/tree/master
+# For Windows
+### Software
+* [unity]()
+* [git command](https://git-scm.com/download/win)
+* conda install --yes --file requirements.txt
+* python modules
+```
+numpy
+pillow
+tk
+h5py
+gym
+-e git+https://github.com/tawnkramer/gym-donkeycar.git#egg=gym_donkeycar
+  
+```
+##
+* pip install tensorflow
+* [DonkeySimWin](https://github.com/tawnkramer/gym-donkeycar/releases/download/v22.11.06/DonkeySimWin.zip)
+* pip install git+https://github.com/tawnkramer/gym-donkeycar
 ### Donkey Simulator
 #### Software Download: [Donkey Gym Release](https://github.com/tawnkramer/gym-donkeycar/releases)
 * [Race Edition v22.05.30](https://github.com/tawnkramer/gym-donkeycar/releases/download/v22.05.30/DonkeySimLinux.zip)
