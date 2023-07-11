@@ -4,6 +4,9 @@
 * 2. [git command](https://git-scm.com/download/win)
 * 3. donkeycar: git clone https://github.com/autorope/donkeycar
 ```
+d:\
+mkdir projects
+cd projects
 git clone https://github.com/autorope/donkeycar
 cd donkeycar
 git fetch --all --tags -f
