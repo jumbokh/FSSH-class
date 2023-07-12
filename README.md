@@ -1,4 +1,5 @@
 # FSSH-class: 
+### [UAV學習資料](https://github.com/jumbokh/FSSH-class/tree/main/2023summer/uav)
 ### 深度學習範例
 * [蔡炎龍老師](https://nbviewer.org/github/yenlung/Python-AI-Book/tree/main/)
 * [陳昭明老師](https://github.com/mc6666/DL_Book)
