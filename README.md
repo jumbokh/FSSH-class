@@ -1,4 +1,7 @@
 # FSSH-class: 
+### 深度學習範例
+* [蔡炎龍老師](https://nbviewer.org/github/yenlung/Python-AI-Book/tree/main/)
+* [陳昭明老師](https://github.com/mc6666/DL_Book)
 #### [wifi setting](https://github.com/jumbokh/rpi_class/blob/master/Installation/first_time_setting.md)
 * ### [DonkeyCar Trainning Tutorial](https://github.com/jumbokh/FSSH-class/blob/main/docs/DonkeyCar-Tutorial.pptx)
 * ### [DonkeyCar](https://docs.donkeycar.com/)
