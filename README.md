@@ -4,6 +4,7 @@
 * [蔡炎龍老師](https://nbviewer.org/github/yenlung/Python-AI-Book/tree/main/)
 * [陳昭明老師](https://github.com/mc6666/DL_Book)
 * [DeepFace](https://github.com/jumbokh/csu1112-class/blob/main/class/face/%E5%86%92%E9%9A%AA38_%E7%94%A8_DeepFace_%E4%BE%86%E5%81%9A%E4%BA%BA%E8%87%89%E8%BE%A8%E8%AD%98.ipynb)
+* [How to Train YOLO v5 on a Custom Dataset](https://blog.paperspace.com/train-yolov5-custom-data/)
 #### [wifi setting](https://github.com/jumbokh/rpi_class/blob/master/Installation/first_time_setting.md)
 * ### [DonkeyCar Trainning Tutorial](https://github.com/jumbokh/FSSH-class/blob/main/docs/DonkeyCar-Tutorial.pptx)
 * ### [DonkeyCar](https://docs.donkeycar.com/)
