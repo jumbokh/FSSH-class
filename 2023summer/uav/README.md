@@ -4,3 +4,4 @@
 * [恢復無人機原廠值](https://www.youtube.com/watch?v=WIbfCFp8g7c)
 * [blockly 介紹](https://arklab.tw/codrone-lite-pro_blockly-%E4%BB%8B%E7%B4%B9%E7%AF%87/)
 * [線上寫程式](https://codrone.robolink.com/pro/blockly/)
+    * [範例](https://github.com/jumbokh/FSSH-class/blob/main/2023summer/uav/runDrone.xml)
